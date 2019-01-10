@@ -9,5 +9,4 @@ Socket.io: npm install socket.io socket.io-client
 
 Add node_modules na raiz do projeto: npm install --save
 
-MySQL
-  CREATE DATABASE chat;
+MySQL: CREATE DATABASE chat;
